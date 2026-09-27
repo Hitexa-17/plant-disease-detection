@@ -1,0 +1,2 @@
+total_classes,train_images,validation_images,test_images,min_train_images_per_class,max_train_images_per_class
+112,9164,1148,1148,12,312

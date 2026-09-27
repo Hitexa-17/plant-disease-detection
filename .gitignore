@@ -1,0 +1,76 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Virtual Environment
+# =========================
+
+venv/
+.venv/
+env/
+
+# =========================
+# IDE / Editor
+# =========================
+
+.idea/
+.vscode/
+
+# =========================
+# Dataset
+# =========================
+
+plantwild_v2/
+
+# =========================
+# Runtime / Temporary Files
+# =========================
+
+app/temp_prediction.jpg
+uploads/
+*.log
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build / Distribution
+# =========================
+
+.dist/
+dist/
+build/
+*.egg-info/
+
+
+# =========================
+# Model checkpoints
+# =========================
+
+model/*.pth
+!model/efficientnet_finetuned_best.pth
+
+notebook/models/

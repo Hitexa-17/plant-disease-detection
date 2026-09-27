@@ -1,0 +1,4 @@
+Model,Validation Accuracy,Validation Macro-F1,Test Accuracy,Test Macro-F1
+Baseline CNN,0.1054,0.0358,,
+EfficientNet-B0 Feature Extraction,0.5287,0.4599,0.5192,0.451
+EfficientNet-B0 Fine-Tuned + Class Weights,,0.532,0.6054,0.5543

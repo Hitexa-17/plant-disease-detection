@@ -1,0 +1,2 @@
+model,epochs,total_parameters,trainable_parameters,validation_accuracy,validation_macro_f1,training_time_minutes
+EfficientNet-B0 Feature Extraction,5,4151020,143472,0.5287,0.4599,34.55

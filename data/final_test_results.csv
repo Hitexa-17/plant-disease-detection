@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_precision,test_macro_recall,test_macro_f1
+EfficientNet-B0 Fine-Tuned,0.6054006968641115,0.569664487575511,0.5831521717393612,0.5542985509370372
